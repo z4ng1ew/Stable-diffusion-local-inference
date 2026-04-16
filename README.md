@@ -14,14 +14,17 @@ Local text-to-image generation using Stable Diffusion models via the Diffusers l
 
 ### SD v1-5 — CPU (56 threads, Xeon E5-2690 v4 ×2)
 ![cpu result](m_cpu.png)
+
 Generation time: ~600s
 
 ### SD v1-5 — GPU (RTX 3060 12GB)
 ![gpu result](m_gpu.png)
+
 Generation time: ~5s
 
 ### SDXL — GPU (RTX 3060 12GB)
 ![sdxl result](movsar_sdxl.png)
+
 Generation time: ~48s
 
 ## Hardware
